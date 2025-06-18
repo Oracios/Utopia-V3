@@ -1,15 +1,15 @@
 {
-    "name": "Utopia-V3",
-    "preductname": "Utopia",
-    "version": "1.0.0",
+    "name": "utopia-V3",
+    "preductname": "utopia",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Utopia",
     "main": "src/app.js",
     "author": {
-        "name": "Oracios",
+        "name": "oracios",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://mc.hloureiro.fr/UTOPIA",
+    "url": "http://mc.hloureiro.fr/UTOPIA",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
