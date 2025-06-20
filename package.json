@@ -1,7 +1,7 @@
 {
     "name": "utopia-V3",
     "preductname": "utopia",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur Utopia",
     "main": "src/app.js",
     "author": {
